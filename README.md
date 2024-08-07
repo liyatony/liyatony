@@ -1,5 +1,5 @@
  Hi, I’m @liyatony
- I’m currently doing BTECH in Computer Science  ...
+ I’m currently doing BTECH in Computer Science at St Joseph's College of Engineering and Technology Palai
 
 
 <!---
