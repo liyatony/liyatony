@@ -1,18 +1,23 @@
 <h1 align="center">Hello, I'm Liya Tony 👋</h1>
 <h3 align="center">Aspiring Frontend Developer | Computer Science Student</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=liyatony&label=Profile%20Views&color=0e75b6&style=flat" alt="liyatony" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=liyatony&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://x.com/LiyaTony45690" target="blank">
     <img src="https://img.shields.io/twitter/follow/LiyaTony45690?logo=twitter&style=for-the-badge" alt="LiyaTony45690" />
   </a>
+  <a href="https://linkedin.com/in/liya-tony-86a568226" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-### 🚀 About Me
-I'm a **Computer Science & Engineering** student at **St. Joseph’s College of Engineering and Technology** (2021-2025). I’m passionate about solving complex problems using programming and exploring backend systems. Currently, I'm working on enhancing my skills in **C programming**, **Java**, and **Python**.
+---
 
-- 🔭 Currently working on projects related to **Web Development** 
-- 🌱 Exploring advanced concepts in **C programming** 
+### 🚀 About Me
+I'm a **Computer Science & Engineering** student at **St. Joseph’s College of Engineering and Technology** (2021-2025). I’m passionate about solving complex problems using programming and exploring web development and frontend technologies. Currently, I'm working on enhancing my skills in **C programming**, **Java**, and **React**.
+
+- 🔭 Currently working on projects related to **Web Development** and **Frontend Engineering**.
+- 🌱 Exploring advanced concepts in **C programming** and **JavaScript frameworks**.
 - 💼 All of my projects can be found on my GitHub: [https://github.com/liyatony](https://github.com/liyatony)
 - 📫 How to reach me: **liyatonym@gmail.com**
 
@@ -53,12 +58,23 @@ I'm a **Computer Science & Engineering** student at **St. Joseph’s College of 
 </p>
 
 ---
+
 ### 🏆 Achievements
 - 🥇 **Spoken Tutorial Certificate in C Programming** from **IIT Kanpur**.
-- 🎖️ Completed an **Internship on Flutter Development** (Even though I’m now focused on Backend, this internship gave me great insight into app architecture).
+- 🎖️ Completed an **Internship on Flutter Development** (Even though I’m now focused on Frontend, this internship gave me great insight into app architecture).
 - 🧑‍💻 Participation in **Python Workshop** at **NIT Calicut**.
 
 ---
+
+### 💼 Recent Projects:
+#### **1. [MeetMyHelper](https://github.com/liyatony/MeetMyHelper)**  
+A modern online platform designed to connect qualified caregivers with those needing assistance. The user-friendly interface ensures a personalized experience, making it easier to find the right caregiver for individual needs.
+
+#### **2. [Tic Tac Toe](https://github.com/liyatony/Tic-Tac-Toe)**  
+An interactive game built using Python, providing a fun way to play the classic Tic Tac Toe game against the computer or another player.
+
+---
+
 <h3 align="center">📊 GitHub Stats and Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=liyatony&theme=gruvbox" alt="GitHub Trophies" />
@@ -76,17 +92,29 @@ I'm a **Computer Science & Engineering** student at **St. Joseph’s College of 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyatony&langs_count=8&theme=gruvbox" alt="liyatony" />
 </p>
 
----
-
-
-### ⚡ Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liyatony&theme=react-dark" alt="GitHub Activity Graph" />
+  <img align="center" height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=liyatony&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 🎯 Fun Facts
-- 🔧 I love working with **C programming** for its simplicity and power in system programming.
-- 🎮 In my free time, I love **reading** about AI advancements.
+### 📈 Additional Insights
+#### Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyatony&layout=compact&theme=gruvbox&langs_count=6" alt="Top Languages" />
+</p>
 
+---
+
+
+
+### 🎯 Fun Facts
+- 🔧 I enjoy working with **C programming** for its power in systems programming.
+- 🎮 In my free time, I love exploring new technologies and learning about AI advancements.
+- 🌍 I'm always looking for new programming languages and frameworks to expand my skill set!
+
+---
+
+### 🌟 What I'm Learning:
+- 💻 **Web Development**: Currently focusing on building full-stack applications using the **MERN stack**.
+- 📚 **Machine Learning**: Diving into the world of machine learning to enhance my knowledge in data science.
