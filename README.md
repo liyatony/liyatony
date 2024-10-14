@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=liyatony&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://x.com/LiyaTony45690" target="blank">
     <img src="https://img.shields.io/twitter/follow/LiyaTony45690?logo=twitter&style=for-the-badge" alt="LiyaTony45690" />
-  </a>
+  </a> 
   <a href="https://linkedin.com/in/liya-tony-86a568226" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
