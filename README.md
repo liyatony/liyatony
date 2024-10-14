@@ -8,6 +8,9 @@
   </a>
 </p>
 
+### 🚀 About Me
+I'm a **Computer Science & Engineering** student at **St. Joseph’s College of Engineering and Technology** (2021-2025). I’m passionate about solving complex problems using programming and exploring backend systems. Currently, I'm working on enhancing my skills in **C programming**, **Java**, and **Python**.
+
 - 🔭 Currently working on projects related to **Web Development** 
 - 🌱 Exploring advanced concepts in **C programming** 
 - 💼 All of my projects can be found on my GitHub: [https://github.com/liyatony](https://github.com/liyatony)
@@ -50,7 +53,12 @@
 </p>
 
 ---
+### 🏆 Achievements
+- 🥇 **Spoken Tutorial Certificate in C Programming** from **IIT Kanpur**.
+- 🎖️ Completed an **Internship on Flutter Development** (Even though I’m now focused on Backend, this internship gave me great insight into app architecture).
+- 🧑‍💻 Participation in **Python Workshop** at **NIT Calicut**.
 
+---
 <h3 align="center">📊 GitHub Stats and Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=liyatony&theme=gruvbox" alt="GitHub Trophies" />
@@ -70,7 +78,15 @@
 
 ---
 
-<h3 align="center">⚡ Activity Graph:</h3>
+
+### ⚡ Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liyatony&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liyatony&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+### 🎯 Fun Facts
+- 🔧 I love working with **C programming** for its simplicity and power in system programming.
+- 🎮 In my free time, I love **gaming** and **reading** about AI advancements.
+
