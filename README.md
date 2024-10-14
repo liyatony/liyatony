@@ -88,5 +88,5 @@ I'm a **Computer Science & Engineering** student at **St. Joseph’s College of 
 
 ### 🎯 Fun Facts
 - 🔧 I love working with **C programming** for its simplicity and power in system programming.
-- 🎮 In my free time, I love **gaming** and **reading** about AI advancements.
+- 🎮 In my free time, I love **reading** about AI advancements.
 
