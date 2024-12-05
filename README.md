@@ -74,6 +74,7 @@ A modern online platform designed to connect qualified caregivers with those nee
 An interactive game built using Python, providing a fun way to play the classic Tic Tac Toe game against the computer or another player.
 
 #### **. [ExcuseMeNow](https://liyatony.github.io/ExcuseMeNow/)**  
+ExcuseMeNow is a creative tool that generates clever, lighthearted excuses to help users gracefully navigate meetings, tasks, or awkward situations with ease and humor.
 ---
 
 <h3 align="center">📊 GitHub Stats and Trophies</h3>
