@@ -63,7 +63,7 @@ I'm a **Computer Science & Engineering** student at **St. Joseph’s College of 
 - 🥇 **Spoken Tutorial Certificate in C Programming** from **IIT Kanpur**.
 - 🎖️ Completed an **Internship on Flutter Development** (Even though I’m now focused on Frontend, this internship gave me great insight into app architecture).
 - 🧑‍💻 Participation in **Python Workshop** at **NIT Calicut**.
-
+- 🎖️ Completed **Cyber Security and Privacy,NPTEL**
 ---
 
 ### 💼 Recent Projects:
@@ -73,6 +73,7 @@ A modern online platform designed to connect qualified caregivers with those nee
 #### **2. [Tic Tac Toe](https://github.com/liyatony/Tic-Tac-Toe)**  
 An interactive game built using Python, providing a fun way to play the classic Tic Tac Toe game against the computer or another player.
 
+#### **. [ExcuseMeNow](https://liyatony.github.io/ExcuseMeNow/)**  
 ---
 
 <h3 align="center">📊 GitHub Stats and Trophies</h3>
