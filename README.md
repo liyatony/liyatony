@@ -78,7 +78,7 @@ An interactive game built using Python, providing a fun way to play the classic 
 #### **3. [ExcuseMeNow](https://liyatony.github.io/ExcuseMeNow/)** 
 A creative tool that generates clever,lighthearted excuses to help users gracefully navigate meeting,tasks or awkward situations with ease and humor.
 
-#### **4. [Hava]**
+#### **4. Hava**
 Built a real-time weather prediction system andDeveloped an app and a public display screen interface
         
 ---
