@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Computer Science & Engineer** who graduated from **St. Joseph’s College of Engineering and Technology** (2021-2025). I'm a persom with effective communication skills and leadership capabilities.I’m passionate about solving complex problems using programming and exploring web development and frontend technologies. Currently, I'm working on enhancing my skills in **MERN stack**.
+I'm a **Computer Science Engineer** who graduated from **St. Joseph’s College of Engineering and Technology** (2021-2025). I'm a persom with effective communication skills and leadership capabilities.I’m passionate about solving complex problems using programming and exploring web development and frontend technologies. Currently, I'm working on enhancing my skills in **MERN stack**.
 
 - 🔭 Currently working on knowledge related to **MERN stack**.
 - 🌱 Exploring advanced concepts in **C programming** and **JavaScript frameworks**.
