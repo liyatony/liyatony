@@ -78,6 +78,9 @@ An interactive game built using Python, providing a fun way to play the classic 
 #### **3. [ExcuseMeNow](https://liyatony.github.io/ExcuseMeNow/)** 
 A creative tool that generates clever,lighthearted excuses to help users gracefully navigate meeting,tasks or awkward situations with ease and humor.
 
+#### **4. [Hava]**
+Built a real-time weather prediction system andDeveloped an app and a public display screen interface
+        
 ---
 
 <h3 align="center">📊 GitHub Stats and Trophies</h3>
@@ -114,12 +117,9 @@ A creative tool that generates clever,lighthearted excuses to help users gracefu
 
 
 ### 🎯 Fun Facts
-- 🔧 I enjoy working with **C programming** for its power in systems programming.
-- 🎮 In my free time, I love exploring new technologies and learning about AI advancements.
-- 🌍 I'm always looking for new programming languages and frameworks to expand my skill set!
-
+- 🔧 I enjoy working with **python programming** for its power in systems programming.
 ---
 
 ### 🌟 What I'm Learning:
 - 💻 **Web Development**: Currently focusing on building full-stack applications using the **MERN stack**.
-- 📚 **Machine Learning**: Diving into the world of machine learning to enhance my knowledge in data science.
+
