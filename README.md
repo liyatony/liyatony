@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Liya Tony 👋</h1>
-<h3 align="center">Aspiring Frontend Developer | Computer Science Student</h3>    
+<h3 align="center">Aspiring Frontend Developer | Computer Science Engineer</h3>    
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=liyatony&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 About Me
-I'm a **Computer Science & Engineering** student at **St. Joseph’s College of Engineering and Technology** (2021-2025). I’m passionate about solving complex problems using programming and exploring web development and frontend technologies. Currently, I'm working on enhancing my skills in **C programming**, **Java**, and **React**.
+I'm a **Computer Science & Engineer** who graduated from **St. Joseph’s College of Engineering and Technology** (2021-2025). I'm a persom with effective communication skills and leadership capabilities.I’m passionate about solving complex problems using programming and exploring web development and frontend technologies. Currently, I'm working on enhancing my skills in **MERN stack**.
 
-- 🔭 Currently working on projects related to **Web Development** and **Frontend Engineering**.
+- 🔭 Currently working on knowledge related to **MERN stack**.
 - 🌱 Exploring advanced concepts in **C programming** and **JavaScript frameworks**.
 - 💼 All of my projects can be found on my GitHub: [https://github.com/liyatony](https://github.com/liyatony)
 - 📫 How to reach me: **liyatonym@gmail.com**
@@ -60,6 +60,8 @@ I'm a **Computer Science & Engineering** student at **St. Joseph’s College of 
 ---
 
 ### 🏆 Achievements
+- 🥇 **Coordinated Women's Day Event** at **SJCET Palai**.
+- 🥇 **Coordinated Tech fest Event Inventra** at **SJCET Palai**.
 - 🥇 **Spoken Tutorial Certificate in C Programming** from **IIT Kanpur**.
 - 🎖️ Completed an **Internship on Flutter Development** (Even though I’m now focused on Frontend, this internship gave me great insight into app architecture).
 - 🧑‍💻 Participation in **Python Workshop** at **NIT Calicut**.
